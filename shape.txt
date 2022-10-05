@@ -12,9 +12,9 @@ abstract class Shape {
 
     public  abstract double getArea() ;
 
+dafdd
 
-
-
+df
     public abstract double getPerimeter();
 
     }
